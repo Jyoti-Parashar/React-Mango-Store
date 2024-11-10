@@ -1,0 +1,25 @@
+{
+    "Products": [
+        {
+            "productid": 1,
+            "name": "Alphonso",
+            "price": 2.50,
+            "quantity" : 2
+            
+        },
+        {
+            "id": 2,
+            "name": "Kesari",
+            "price": 3.50,
+            "quantity" : 4
+        }
+    ],
+    "Cart":[
+        {
+            "id":1,
+            "productid":2,
+            "amount":10
+    
+    }
+    ]
+}
